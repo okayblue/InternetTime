@@ -1,5 +1,5 @@
 # InternetTime
 
-A simple clock based on swatch internet time. Centibeats currently don't display correctly.
+A simple clock based on swatch internet time.
 
 [Live Demo](https://okayblue.github.io/InternetTime/)
